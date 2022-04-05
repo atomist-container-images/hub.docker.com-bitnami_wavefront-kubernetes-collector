@@ -29,6 +29,3 @@ FROM bitnami/wavefront-kubernetes-collector:1.9.0
 
 # Tags: 1.9.0-scratch-r1
 FROM bitnami/wavefront-kubernetes-collector:1.9.0-scratch-r1
-
-# Tags: 1.9.0-scratch-r0
-FROM bitnami/wavefront-kubernetes-collector:1.9.0-scratch-r0
