@@ -22,6 +22,3 @@ FROM bitnami/wavefront-kubernetes-collector:1.10.0-scratch-r7
 
 # Tags: 1.10.0-scratch-r6
 FROM bitnami/wavefront-kubernetes-collector:1.10.0-scratch-r6
-
-# Tags: 1.10.0-scratch-r5
-FROM bitnami/wavefront-kubernetes-collector:1.10.0-scratch-r5
